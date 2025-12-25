@@ -1,0 +1,50 @@
+{
+    "brand": "ROYAL PLUS",
+    "badge": "COMING SOON",
+    "hero": {
+        "title_prefix": "The Future of",
+        "title_highlight": "Automated Trading",
+        "description": "Powered by advanced AI algorithms. Experience real-time market analysis and execute trades with military-grade precision.",
+        "input_placeholder": "Enter your email address",
+        "button_text": "Notify Me",
+        "spam_note": "No spam ever. Be the first to know when we launch."
+    },
+    "dashboard_preview": {
+        "status_label": "Status",
+        "profit_label": "PROFIT",
+        "status": "Active",
+        "profit": "+24.5%",
+        "system_status": "SYSTEM ONLINE",
+        "progress_label": "Processing",
+        "progress_value": "75%"
+    },
+    "features_section": {
+        "title": "What To Expect",
+        "items": [
+            {
+                "icon": "chip",
+                "title": "AI-Powered Trading",
+                "description": "Advanced algorithms that analyze markets 24/7 and execute trades automatically."
+            },
+            {
+                "icon": "chart",
+                "title": "Smart Analytics",
+                "description": "Real-time insights and performance tracking across crypto and forex markets."
+            },
+            {
+                "icon": "shield",
+                "title": "Secure & Reliable",
+                "description": "Bank-grade encryption and secure API connections to protect your assets."
+            },
+            {
+                "icon": "lightning",
+                "title": "Lightning Fast",
+                "description": "Execute trades in milliseconds to capture every market opportunity."
+            }
+        ]
+    },
+    "footer": {
+        "copyright": "© 2025 RoyalPlus. All rights reserved.",
+        "email": "info@royalplus.io"
+    }
+}
